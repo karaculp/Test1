@@ -1,1 +1,136 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":""},"users":[{"login_name":"karaculp","avatar_url":"https://avatars.githubusercontent.com/u/241790806?v=4","admin":true}],"project":{"github_org":"karaculp","is_private":false,"title":"Test1","description":"Test","language":"en","slug":"Test1","creator":"karaculp","authors":"","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"category":"_uncategorized_","color":"#A3A3A3"}],"tags":[{"category":"_uncategorized_","tag":"Family Life"},{"category":"_uncategorized_","tag":"Streets of San Antonio"},{"category":"_uncategorized_","tag":"Places of San Antonio"},{"category":"_uncategorized_","tag":"Westside Neighborhood"},{"category":"_uncategorized_","tag":"Urban Renewal"},{"category":"_uncategorized_","tag":"Activism"},{"category":"_uncategorized_","tag":"Class Dynamics"},{"category":"_uncategorized_","tag":"Question About Childhood"},{"category":"_uncategorized_","tag":"Childhood"},{"category":"_uncategorized_","tag":"Interviewer Comment"},{"category":"_uncategorized_","tag":"Question About Family LIfe"},{"category":"_uncategorized_","tag":"Question About Family Life"},{"category":"_uncategorized_","tag":"Discrimination"},{"category":"_uncategorized_","tag":"Migrant Labor"},{"category":"_uncategorized_","tag":"Question About Discrimination"},{"category":"_uncategorized_","tag":"Family LIfe"},{"category":"_uncategorized_","tag":"Race"},{"category":"_uncategorized_","tag":"Political Context"},{"category":"_uncategorized_","tag":"Segregation Context"}]},"created_at":"2026-04-07T21:55:55.560Z","updated_at":"2026-04-07T21:58:43.275Z","generate_pages_site":true},"annotations":{},"events":{},"eventOrder":[],"pages":{"4ce33742-093a-44ef-9e34-00357b0541a5":{"content":[],"created_at":"2026-04-07T21:55:55.579Z","created_by":"karaculp","title":"Test1","updated_at":"2026-04-07T21:55:55.579Z","updated_by":"karaculp","autogenerate":{"enabled":true,"type":"home"}}},"pageOrder":["4ce33742-093a-44ef-9e34-00357b0541a5"]}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
+  },
+  "users": [
+    {
+      "login_name": "karaculp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/241790806?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "karaculp",
+    "is_private": false,
+    "title": "Test1",
+    "description": "Test",
+    "language": "en",
+    "slug": "Test1",
+    "creator": "karaculp",
+    "authors": "",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "_uncategorized_",
+          "color": "#A3A3A3"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Family Life"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Streets of San Antonio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Places of San Antonio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Westside Neighborhood"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Urban Renewal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Activism"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Class Dynamics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Question About Childhood"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Childhood"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer Comment"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Question About Family LIfe"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Question About Family Life"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Discrimination"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Migrant Labor"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Question About Discrimination"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Family LIfe"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Race"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Political Context"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Segregation Context"
+        }
+      ]
+    },
+    "created_at": "2026-04-07T21:55:55.560Z",
+    "updated_at": "2026-04-07T21:58:44.258Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "4ce33742-093a-44ef-9e34-00357b0541a5": {
+      "content": [],
+      "created_at": "2026-04-07T21:55:55.579Z",
+      "created_by": "karaculp",
+      "title": "Test1",
+      "updated_at": "2026-04-07T21:55:55.579Z",
+      "updated_by": "karaculp",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "4ce33742-093a-44ef-9e34-00357b0541a5"
+  ]
+}

@@ -1,5 +1,440 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 87,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was born in Del Rio, Texas. April 28, 1950. But I think we moved down to San Antonio before I was a year old. So, basically we have lived in San Antonio almost all my life. Grew up in the west side of San Antonio. We lived in several places you know, when we first came. People cannot believe I remember these things, but I do! We lived off of Merida Street, close to the train tracks. And I remember that because when the train went by it shook our house. And I remember that because I was still a kid. My mother said, “That’s impossible. You cannot remember that.” I said, “I remember that.” And she said, cause I said, I would start crying. Anyway, from there we moved to the projects. We moved to the Mira Sol homes. The San Juan - Mira Sol. Actually, there were two families living together. My aunt and my uncle- they moved to San Angelo later- but I remember we did not have any furniture. We had a heater and a mattress."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Family Life"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Streets of San Antonio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Places of San Antonio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Westside Neighborhood"
+        }
+      ],
+      "uuid": "de6fb30d-8814-46df-b11c-e3980b5128a8"
+    },
+    {
+      "start_time": 87,
+      "end_time": 136,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For, don't ask me how many kids, because there were three of us at that time. My father, my mother, my aunt, my uncle, and all their kids. They had- let’s see- my cousins- they had like six kids. So, but I don't think all of them were born yet because Jimmy and Danny were the youngest. So, I don't think they were around back then. And then we moved to this “so called” new neighborhood off of Lobrano – close to the Menchaca Courts- and that’s where we settled. I lived there for like twenty-six years of my life. That’s in the Edgewood district."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Family Life"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Places of San Antonio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Streets of San Antonio"
+        }
+      ],
+      "uuid": "011e7e5b-aebc-4970-9e45-7162080241a9"
+    },
+    {
+      "start_time": 136,
+      "end_time": 228,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There was nothing around there. Even General McMullin was not there. I wrote a story about how they built General McMullin- and General McMullin was supposed to be a direct path to Kelly Air Force Base where everybody worked. I mean- it’s like the whole city. You had it made if you worked at Kelly Field. And, previously, you know, they had to go all the way around. So, when they cut that it destroyed our plane grounds. You know- it was puro monte- it was all brushy. We use to go in there and play. So, if you want to talk about activism, it started way back then. Because we were trying to stop them from building the streets and bulldozing it. And we would go and put rocks on the tractors. They would dig out rocks and we would put them back. You know, we were young, we were little, and you know we were angry. Because nobody asked us “can we could cut through here.” This was our neighborhood. No one had fences at that time. And all of a sudden, everyone started to put up a fence because the street was coming through and people felt it was important. That's in the Edgewood district now."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Places of San Antonio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Urban Renewal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Activism"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Class Dynamics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Westside Neighborhood"
+        }
+      ],
+      "uuid": "6703a398-3ead-462b-b8eb-fe2d6c84f587"
+    },
+    {
+      "start_time": 228,
+      "end_time": 233,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "About how old were you when this happened?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Question About Childhood"
+        }
+      ],
+      "uuid": "223e3977-7084-4b28-b61b-8be87b35bb10"
+    },
+    {
+      "start_time": 233,
+      "end_time": 242,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh gosh, I think it was in 1950... I wanna say 8 or 9, but I may have been younger."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Childhood"
+        }
+      ],
+      "uuid": "34a836b6-1e08-442a-aa79-66f14a99358b"
+    },
+    {
+      "start_time": 242,
+      "end_time": 247,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That makes sense because it was around 1960."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer Comment"
+        }
+      ],
+      "uuid": "21939bb9-3f2c-44e2-825d-74858fc2e607"
+    },
+    {
+      "start_time": 247,
+      "end_time": 278,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So um, yeah, the... Tell me about my family? I have three brothers. I am the only daughter. I am the second oldest. David is the oldest. Me, then Johnny Jr., then Jerry. Jerry is the trailer. I am thirteen years older than he is. So he was like a surprise (laughter) He was like a surprise brother. (laughter)."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Family Life"
+        }
+      ],
+      "uuid": "8561ec0b-79ad-48e2-9d27-e36959eb084d"
+    },
+    {
+      "start_time": 278,
+      "end_time": 284,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Can you tell me a little bit about your mother and father? What did they do?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Question About Family LIfe"
+        }
+      ],
+      "uuid": "e242df60-2087-4c8b-a879-c014f10a1abf"
+    },
+    {
+      "start_time": 284,
+      "end_time": 295,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My parents from when they were younger, this is from what they tell us, they were both migrant workers. I know my mother was a migrant worker. She had a fourth grade education."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Family Life"
+        }
+      ],
+      "uuid": "dbbb0486-0d4f-4e32-9f95-a22008367e6f"
+    },
+    {
+      "start_time": 295,
+      "end_time": 296,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What was her name?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Question About Family Life"
+        }
+      ],
+      "uuid": "89e522fa-fd03-415f-bb41-2c4e9a79a41a"
+    },
+    {
+      "start_time": 296,
+      "end_time": 365,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mariel Luisa Montejano, and my father’s name is Juan Montejano. I know they both worked as migrants. My mother more than my dad. You know because um, well I don’t know about that. They both did the seasonal thing. And then, he went to school. He graduated from high school and went on to college on the VA. But anyway, my grandfather pulled his family out because they use to throw rocks at them when they were going to school. That was in Del Rio. He just got upset and pulled them out. He said that they are going to work. He had all girls and one son. So I come from a very long line of strong women because they worked like men, you know, back then. And so my father, they also went to-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Family Life"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Discrimination"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Class Dynamics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Migrant Labor"
+        }
+      ],
+      "uuid": "c09c6d6d-e960-4f71-b72c-e1ca12e93661"
+    },
+    {
+      "start_time": 365,
+      "end_time": 368,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm sorry, one question: Who would throw rocks?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Question About Discrimination"
+        }
+      ],
+      "uuid": "cab9c0a4-447a-40d7-a15f-58d33a0fef3c"
+    },
+    {
+      "start_time": 368,
+      "end_time": 375,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I guess the other kids would throw rocks at my aunts and I guess my one uncle, because-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Discrimination"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Family LIfe"
+        }
+      ],
+      "uuid": "fe66371e-397c-49a9-95b7-964db8be7aed"
+    },
+    {
+      "start_time": 375,
+      "end_time": 377,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you think they were Anglo kids?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Question About Discrimination"
+        }
+      ],
+      "uuid": "8028f08b-ffc1-425f-95a2-30147e12806f"
+    },
+    {
+      "start_time": 377,
+      "end_time": 407,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I do think they were Anglos, yeah. My mother was very, whew. It was \"Ese gringo.\" “Que esperas de los gringos.” I was like okay, whatever, okay (laughter) they're not all bad mom. “Pero como quiera son gringos. Ellos tienen ortra cultura.” You know just like \"okay... If you say so\" Yeah, they do, but it doesn't mean they are all bad."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Discrimination"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Race"
+        }
+      ],
+      "uuid": "e3c111b2-bf85-4b7b-8664-5e8c61c115a8"
+    },
+    {
+      "start_time": 136,
+      "end_time": 225,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Voters passed a bond package in 1961 in San Antonio to create a highway system in the city. This was to alleviate traffic to Kelly Field, the airstrip of Lackland Air Force Base. It is one of three military bases in San Antonio, Texas that are collectively called \"Joint Base San Antonio (JBSA).\" A military presence in the city dates back to 1718, when Spanish soldiers established San Antonio de Bexar Presidio. For this reason, San Antonio is known as \"Military City USA.\" General McMullen Drive, the street to which Montejano is referring, was named in honor of the former commander of Kelly Air Force Base, who was from San Antonio and grew up in Alamo Hieghts, a distinctly white part of the city. The road was built directly through a hevaily Mexican American area."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Political Context"
+        }
+      ],
+      "uuid": "779504e4-cf15-470b-986c-1ae0fb21f5ec"
+    },
+    {
+      "start_time": 136,
+      "end_time": 225,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Segregation began to be established in San Antonio in 1850, as Germanic and Anglo settlers moved to the city in increasing numbers. They established their own neighborhoods and later separate school districts in the city."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Segregation Context"
+        }
+      ],
+      "uuid": "5d0ee4b2-5b98-4fd8-8e9c-f925ea76c5a3"
+    },
+    {
+      "start_time": 17,
+      "end_time": 82,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "San Antonio, like other cities in Texas, had \"triracial segregation\" between White, Black, and Mexican populations. The Westside emerged as dominantly Mexican American, the Northside as white/Anglo, and the Eastside as Black. The growth of the westside population was due in part to the arrival of the International and Great Northern (I&GN) Railway to San Antonio in 1881. The I&GN railroad station and the cattle processing that took place near there was located on and around Medina Street, and the same railroad also passed by the Montejano home on Merida Street. I&GN was later merged into the Missuri Pacific Railroad company in 1956 and the Union Pacific Railroad Company in 1997. The railroad itself is still there today, though the station and cattle processing facilities are gone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Segregation Context"
+        }
+      ],
+      "uuid": "4dbde51d-9331-4b21-8a89-3d3099c5f565"
+    }
+  ],
   "set": "Default",
   "event_id": "3c02e76e-f9dd-45eb-8256-35dcafee920f",
   "source_id": "568001e2-9198-4f79-89ab-0f5fee55305b"
